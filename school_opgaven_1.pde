@@ -1,6 +1,11 @@
+print("hallo wereld wereld");
+println(" de wereld is van mij");
+print("Er is ruimte zat, dus kom er lekker bij");
 background(0,120,155);
 size(640,480);
 fill(255, 255, 0);
 text("ian", 50, 240);
 fill(0,255,0);
-text("van nieuwkerk", 68, 240);
+text("van nieuwkerk", 90, 240);
+fill(255,0,0);
+text("Max verstappen", 155, 200);
